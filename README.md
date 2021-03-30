@@ -1,1 +1,7 @@
-# pytest_selenium_erzaf.com
+# HOW TO RUN
+
+```python -m pytest -v```
+
+Prerequities:
+- Selenium
+- Pytest
